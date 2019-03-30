@@ -4,20 +4,18 @@
 Nome file : Allomingius_Dataset<br/>
 Per una correta pronuncia si indica tra parentesi la n aspirata<br/>
 Il formato di distribuzione  è CSV, separatore punto-virgola<br/>
-Il dataset contiene un header<br/>
-Una soprannome per record<br/>
-Se più cognomi per un soprannome, questi sono separati dal carattere /<br/>
+Il file contiene un header<br/>
+Un soprannome per record<br/>
+Se più cognomi sono associati ad uno stesso soprannome, questi sono separati dal carattere /<br/>
 
 ## File Tassonomia
 Nome file : Allomingius_Tassonomia<br/>
 Il formato di distribuzione è CSV, separatore punto-virgola<br/>
-La nomenclatura contente la tassonomia contiente un header<br/>
+La file contiente un header<br/>
 
 ## Contributori
 * Sabrina Teresi
 * Stefano Carta
-* Maxime Gratier
-* Françoise Nilsen
 * Davide Usai (Team Lead)
 
 ## Riferimenti bibliografici
